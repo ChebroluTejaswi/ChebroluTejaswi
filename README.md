@@ -6,13 +6,13 @@
 
 <h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Coding 📊</summary>
+<summary>Coding</summary>
 <ul>
    <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA">DSA using JAVA</a></li>
 </ul>
 </details>
 <details>
-<summary>Full Stack Developer 🍥</summary>
+<summary>Full Stack Developer</summary>
   <ul>
     <li><a href="https://github.com/ChebroluTejaswi/WebDevelopment-Basics">Front-End basics</a></li>
     <li><a href="https://github.com/ChebroluTejaswi/healthy-mind-website">healthy-mind-website</a></li>

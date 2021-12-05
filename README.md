@@ -12,6 +12,13 @@
 </ul>
 </details>
 <details>
+<summary>Machine Learning</summary>
+<ul>
+   <li><a href="https://github.com/ChebroluTejaswi/Farmfully-API">Plant disease prediction API</a></li>
+   <li><a href="https://github.com/ChebroluTejaswi/farmfully">Farmfully</a></li>
+</ul>
+</details>
+<details>
 <summary>Full Stack Developer</summary>
   <ul>
     <li><a href="https://github.com/ChebroluTejaswi/WebDevelopment-Basics">Front-End basics</a></li>

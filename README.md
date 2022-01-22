@@ -8,6 +8,7 @@
 <details>
 <summary>Coding</summary>
 <ul>
+   <li><a href="https://github.com/ChebroluTejaswi/JAVA">JAVA - Basics</a></li>
    <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA">DSA using JAVA</a></li>
 </ul>
 </details>

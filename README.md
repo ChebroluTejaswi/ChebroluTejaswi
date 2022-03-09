@@ -22,9 +22,13 @@
 <details>
 <summary>Full Stack Developer</summary>
   <ul>
-    <li><a href="https://github.com/ChebroluTejaswi/WebDevelopment-Basics">Front-End basics</a></li>
-    <li><a href="https://github.com/ChebroluTejaswi/healthy-mind-website">healthy-mind-website</a></li>
     <li><a href="https://github.com/ChebroluTejaswi/Portfolio">Portfolio</a></li>
+    <li><a href="https://github.com/ChebroluTejaswi/Authentication">Authentication page</a></li>
+    <li><a href="https://github.com/ChebroluTejaswi/Farm-Fully">Farmfully</a></li>
+    <li><a href="https://github.com/ChebroluTejaswi/To-Do-List">To-do List</a></li>
+    <li><a href="https://github.com/ChebroluTejaswi/Simon-Game">Simon Game</a></li>
+    <li><a href="https://github.com/ChebroluTejaswi/Drum-Kit">Drum Kit</a></li>
+    <li><a href="https://github.com/ChebroluTejaswi/Healthy-Mind">Healthy Mind</a></li>
   </ul>
 </details>
 
